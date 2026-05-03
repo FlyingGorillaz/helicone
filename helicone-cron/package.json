@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@clickhouse/client-web": "^0.3.1",
-    "@supabase/supabase-js": "^2.41.1",
+    "@supabase/supabase-js": "^2.105.1",
     "dateformat": "^5.0.3",
     "pg": "^8.11.5",
     "stripe": "^14.23.0"
